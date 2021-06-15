@@ -3,6 +3,8 @@ Solutions for some practice problems in python.
 
 > 12box10empty_prob.py : 10 balls are randomly put in 12 boxes. Find the probability that exactly 10 boxes are empty using monte carlo method.
 
+>avg_word_length.py : Find the average length of words in a given sentence. Exclude punctuations.
+
 > binary_search.py : Search an ordered list for an element using binary search and returns it's index. If multiple occurances, return the index of first occurance.
 
 > binary_tree.py : Elements of a binary tree are stored in a list. Seperate elements of two main branches, assign decimal powers based on the level, and find the sum.
