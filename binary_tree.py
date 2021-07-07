@@ -35,5 +35,5 @@ def treesum(T):
 
 
 
-tree=[randint(0,9) for i in range(0,6)]
+tree=[randint(0,9) for i in range(0,15)]
 print(treesum(tree))
