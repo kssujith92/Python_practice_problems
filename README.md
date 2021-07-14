@@ -13,7 +13,11 @@ Solutions for some practice problems in python.
 
 > cost_minimize.py : A list contains cost to climb each step. At each step, one can choose to skip the next step or not. Minimize the cost to reach the top.
 
+> edit_distance.py : Fint the edit distance between two words. Allowed operations: Delete, Insert, Replace
+
 > largest_range.py : Find largest range of consecutive integers in a given list.
+
+> largest_divisible_sum.py : Given a list of integers and a number k, find the maximum sum which is divisible by k from the given list.
 
 > matching_words.py : Given two sentences, return words that are common and words that are not.
 
