@@ -1,3 +1,5 @@
+#approximate the value of pi using area and radius of a circle.
+
 from math import sqrt
 
 def in_circle_check(i,j,r):
@@ -6,7 +8,7 @@ def in_circle_check(i,j,r):
     else:
         return 0;
 
-N=1000;
+N=100;
 for r in range(1,N+1):
     A=0;
     for i in range(-r,r):
