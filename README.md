@@ -21,6 +21,8 @@ Solutions for some practice problems in python.
 
 > matching_words.py : Given two sentences, return words that are common and words that are not.
 
+>pi_value_approx.py : Approximate the value of pi using area and radius of a circle generated. Area is calculated by counting the points inside the circle. At each iteration, radius of circle is increased by 1 unit and area becomes more accurate.
+
 > postcode_check.py : Check whether a given postcode is valid by veryfying the provided conditions - a) Must be an integer in the range 100000 to 999999. b) Must not contain more than one alternating digit pair - eg:101 (1 is an alternating digit)
 
 > river_sizes.py : A 2D array contains 0s (land) and 1s (water). Continous 1s in horizontal or vertical direction is a river. Count the number of distinct rivers and their lengths in 2D.
